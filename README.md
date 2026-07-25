@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
