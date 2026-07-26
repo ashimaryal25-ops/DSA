@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -292,5 +295,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
