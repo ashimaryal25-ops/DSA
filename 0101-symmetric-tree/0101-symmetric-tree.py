@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 
-def isSameTree(p, q):
+def isMirrorTree(p, q):
 
         if p == None and q == None:
             return True
@@ -17,12 +17,12 @@ def isSameTree(p, q):
             return False
                 
         # The Leap of Faith
-        return isSameTree(p.left, q.right) and isSameTree(p.right, q.left)
+        return isMirrorTree(p.left, q.right) and isMirrorTree(p.right, q.left)
 
 class Solution(object):
     def isSymmetric(self, root):
 
-        return isSameTree( root.left, root.right)
+        return isMirrorTree( root.left, root.right)
 
         
 
