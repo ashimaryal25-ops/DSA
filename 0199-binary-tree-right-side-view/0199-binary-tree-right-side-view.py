@@ -7,29 +7,26 @@
 class Solution(object):
     def rightSideView(self, root):
 
-        if not root:
-            return []
+        arr = []
+
+        def dfs( node, depth):
+            if not node:
+                return
+
+            if len(arr) == depth:
+                arr.append(node.val)
 
 
-        queue = collections.deque([root])
+            dfs(node.right, depth + 1)
 
-        
-        res = []
-        while queue:
+            dfs(node.left, depth + 1)
 
-            levelsize = len(queue)
+            return node
 
-            for i in range( levelsize ):
-
-                cur = queue.popleft()
-                if i == levelsize - 1:
-                    res.append(cur.val)
-
-                if cur.left:
-                    queue.append(cur.left)
-                if cur.right:
-                    queue.append(cur.right)        
+        dfs(root, 0)
+        return arr
 
 
-        
-        return res
+
+
+
