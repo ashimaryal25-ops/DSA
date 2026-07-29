@@ -1,11 +1,26 @@
 class Solution(object):
     def isValidBST(self, root):
-        def validate(node, min_val, max_val):
+        self.prev = float('-inf')
+        
+        def inorder(node):
+            # Base Case
             if not node:
                 return True
-            if not (min_val < node.val < max_val):
+            
+            #LEFT
+            if not inorder(node.left):
                 return False
-            return validate(node.left, min_val, node.val) and \
-                   validate(node.right, node.val, max_val)
-
-        return validate(root, float('-inf'), float('inf'))
+                
+            # ROOT (The Check) we check
+            if node.val <= self.prev:
+                return False
+            self.prev = node.val
+            
+            # 3. RIGHT (Written explicitly, just like you pictured it!)
+            if not inorder(node.right):
+                return False
+                
+            # If left is good, root is good, and right is good:
+            return True
+            
+        return inorder(root)
