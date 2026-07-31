@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -330,5 +333,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
