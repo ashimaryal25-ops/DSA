@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
