@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
