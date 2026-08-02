@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Array
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
