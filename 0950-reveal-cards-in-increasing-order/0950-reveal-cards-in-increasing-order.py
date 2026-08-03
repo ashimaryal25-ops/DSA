@@ -1,23 +1,23 @@
+from collections import deque
+
 class Solution(object):
     def deckRevealedIncreasing(self, deck):
-        n = len(deck)
+        sorted_deck = sorted(deck)
 
-        deck.sort()
-    
-        res = [0] * n 
-        
-        queue = deque(range(n)) 
+        res_deck = [0] * len(deck)
+        q = deque(range(len(deck)))
 
-        for card in deck:
-            reveal_index = queue.popleft()
-            
-            res[reveal_index] = card
-            
-            if queue:
-                next_index = queue.popleft()
-                queue.append(next_index)
+        for card in sorted_deck:
+            # This position will be revealed next
+            index = q.popleft()
+            res_deck[index] = card
+
+            # Move the next position to the back
+            if q:
+                q.append(q.popleft())
+
+        return res_deck
                 
-        return res
 
 
               
