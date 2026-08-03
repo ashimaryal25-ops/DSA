@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
