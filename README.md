@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## String
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0735-asteroid-collision](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
