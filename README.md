@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
@@ -352,4 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
