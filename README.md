@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
+| [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
+| [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
+| [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
