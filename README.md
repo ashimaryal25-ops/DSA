@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0134-gas-station/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
