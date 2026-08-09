@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0046-permutations/) | Medium |
+| [0054-spiral-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
