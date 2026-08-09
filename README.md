@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
