@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0078-subsets/) | Medium |
