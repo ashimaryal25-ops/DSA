@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0057-insert-interval/) | Medium |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0268-missing-number/) | Easy |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
