@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
