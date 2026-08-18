@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0948-bag-of-tokens](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
+| [0948-bag-of-tokens](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0948-bag-of-tokens/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sorting
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
+| [0948-bag-of-tokens](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Interactive
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0763-partition-labels](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
+| [0948-bag-of-tokens](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0948-bag-of-tokens/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
