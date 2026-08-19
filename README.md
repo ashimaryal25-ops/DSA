@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
+| [0394-decode-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0394-decode-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0394-decode-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
