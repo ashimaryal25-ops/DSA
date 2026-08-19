@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
@@ -388,12 +390,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
