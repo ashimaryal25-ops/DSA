@@ -24,7 +24,7 @@ class Solution(object):
             if index1 < index2:
                 rad.append(index1 + n)
             else:
-                dire.append(index1 + n) 
+                dire.append(index2 + n) 
 
         if rad:
             return "Radiant"
