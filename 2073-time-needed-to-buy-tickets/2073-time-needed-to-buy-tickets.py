@@ -1,23 +1,20 @@
 class Solution(object):
     def timeRequiredToBuy(self, tickets, k):
 
-        queue = deque()
-        for i in range(len(tickets)):
-            queue.append((i, tickets[i]))
-            
+        q = deque()
+
+        for i, t  in enumerate(tickets):
+            q.append([i, t])
+
         time = 0
-        
-        while queue:
-            person_index, tickets_left = queue.popleft()
-            
-            tickets_left -= 1
-            time += 1
-            
-            if person_index == k and tickets_left == 0:
-                return time
-                
-            if tickets_left > 0:
-                queue.append((person_index, tickets_left))
-        
-        
-        
+
+        while True:
+
+             curFront = q.popleft()
+             time += 1
+             curFront[1] -= 1
+             if curFront[1] != 0:
+                q.append(curFront)
+             if curFront[0] == k and curFront[1] == 0:
+                break    
+        return time
