@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0394-decode-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
