@@ -1,29 +1,35 @@
 class Solution(object):
     def predictPartyVictory(self, senate):
-        radiantq = deque()
-        direq = deque()
+        rad = deque()
 
+        dire = deque()
         n = len(senate)
-        count = 0
-        for c in senate:
-            if c == "R":
-                radiantq.append(count)
+        count  = 1
+        for s in senate:
+            
+            if s == "R":
+                rad.append(count)
             else:
-                direq.append(count)
+                dire.append(count)
+            count = count + 1
 
-            count += 1    
 
 
-        while radiantq and direq:
-            radiant = radiantq.popleft()
-            dire = direq.popleft()
+        while rad and dire: 
 
-            if radiant < dire:
-                radiantq.append(radiant + n)
+            index1 = rad.popleft()
+
+            index2 = dire.popleft()
+
+            if index1 < index2:
+                rad.append(index1 + n)
             else:
-                direq.append(dire + n) 
+                dire.append(index1 + n) 
 
-        if not radiantq:
-            return "Dire"
+        if rad:
+            return "Radiant"
         else:
-            return "Radiant" 
+            return "Dire"    
+
+            
+            
