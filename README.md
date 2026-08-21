@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 ## Linked List
@@ -371,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
